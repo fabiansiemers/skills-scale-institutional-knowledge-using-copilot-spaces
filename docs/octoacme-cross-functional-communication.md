@@ -14,28 +14,28 @@ Establish clear patterns for communication across different roles to improve col
 
 ### Who Communicates with Whom
 
-| From → To | Primary Topics | Frequency | Format |
+| From -> To | Primary Topics | Frequency | Format |
 |-----------|---------------|-----------|--------|
-| **Developer → Product Manager** | Feature questions, technical constraints, scope clarifications | As needed | Slack, PR comments, planning meetings |
-| **Developer → Project Manager** | Blockers, timeline impacts, resource needs | Daily standup, as needed | Standup, Slack, email |
-| **Developer → UX Designer** | Implementation questions, feasibility feedback, design clarifications | As needed | Slack, PR reviews, design reviews |
-| **Developer → Technical Architect** | Architecture decisions, technical approach validation | Before major changes | Slack, design docs, PR reviews |
-| **Developer → Data Analyst** | Instrumentation needs, metric questions | As needed | Slack, planning meetings |
-| **Product Manager → Project Manager** | Priority changes, scope decisions, stakeholder updates | Weekly sync | Meeting, email |
-| **Product Manager → UX Designer** | Feature requirements, user research insights, design validation | Weekly, as needed | Meeting, design reviews |
-| **Product Manager → Customer Advocate** | User feedback prioritization, feature validation | Weekly, as needed | Meeting, Slack |
-| **Product Manager → Data Analyst** | Success metric definition, experiment design | As needed | Meeting, Slack |
-| **Project Manager → All Team Members** | Status updates, risk alerts, schedule changes | Weekly | Email, Slack, standup |
-| **Project Manager → Scrum Master** | Team capacity, impediments, cross-team coordination | As needed | Meeting, Slack |
-| **UX Designer → Developer** | Design specs, accessibility requirements, implementation feedback | During sprint | Slack, PR reviews, design handoff |
-| **UX Designer → Product Manager** | Design research findings, usability concerns, design proposals | Weekly | Meeting, design reviews |
-| **Technical Architect → Developer** | Architecture guidance, technical standards, code review feedback | Ongoing | PR reviews, design docs, meetings |
-| **Scrum Master → Project Manager** | Team health, velocity trends, impediment escalation | Weekly | Meeting, Slack |
-| **Scrum Master → All Team Members** | Process improvements, ceremony facilitation, coaching | Daily/weekly | Standup, retros, 1-on-1s |
-| **Customer Advocate → Product Manager** | User feedback, pain points, feature requests | Weekly | Meeting, feedback reports |
-| **Customer Advocate → UX Designer** | Usability feedback, user testing results | As needed | Meeting, Slack |
-| **Data Analyst → Product Manager** | Metric reports, experiment results, insights | Weekly/monthly | Dashboard, reports, meetings |
-| **Data Analyst → All Roles** | KPI updates, data insights | Monthly | Reports, presentations |
+| **Developer -> Product Manager** | Feature questions, technical constraints, scope clarifications | As needed | Slack, PR comments, planning meetings |
+| **Developer -> Project Manager** | Blockers, timeline impacts, resource needs | Daily standup, as needed | Standup, Slack, email |
+| **Developer -> UX Designer** | Implementation questions, feasibility feedback, design clarifications | As needed | Slack, PR reviews, design reviews |
+| **Developer -> Technical Architect** | Architecture decisions, technical approach validation | Before major changes | Slack, design docs, PR reviews |
+| **Developer -> Data Analyst** | Instrumentation needs, metric questions | As needed | Slack, planning meetings |
+| **Product Manager -> Project Manager** | Priority changes, scope decisions, stakeholder updates | Weekly sync | Meeting, email |
+| **Product Manager -> UX Designer** | Feature requirements, user research insights, design validation | Weekly, as needed | Meeting, design reviews |
+| **Product Manager -> Customer Advocate** | User feedback prioritization, feature validation | Weekly, as needed | Meeting, Slack |
+| **Product Manager -> Data Analyst** | Success metric definition, experiment design | As needed | Meeting, Slack |
+| **Project Manager -> All Team Members** | Status updates, risk alerts, schedule changes | Weekly | Email, Slack, standup |
+| **Project Manager -> Scrum Master** | Team capacity, impediments, cross-team coordination | As needed | Meeting, Slack |
+| **UX Designer -> Developer** | Design specs, accessibility requirements, implementation feedback | During sprint | Slack, PR reviews, design handoff |
+| **UX Designer -> Product Manager** | Design research findings, usability concerns, design proposals | Weekly | Meeting, design reviews |
+| **Technical Architect -> Developer** | Architecture guidance, technical standards, code review feedback | Ongoing | PR reviews, design docs, meetings |
+| **Scrum Master -> Project Manager** | Team health, velocity trends, impediment escalation | Weekly | Meeting, Slack |
+| **Scrum Master -> All Team Members** | Process improvements, ceremony facilitation, coaching | Daily/weekly | Standup, retros, 1-on-1s |
+| **Customer Advocate -> Product Manager** | User feedback, pain points, feature requests | Weekly | Meeting, feedback reports |
+| **Customer Advocate -> UX Designer** | Usability feedback, user testing results | As needed | Meeting, Slack |
+| **Data Analyst -> Product Manager** | Metric reports, experiment results, insights | Weekly/monthly | Dashboard, reports, meetings |
+| **Data Analyst -> All Roles** | KPI updates, data insights | Monthly | Reports, presentations |
 
 ## Communication Templates
 
