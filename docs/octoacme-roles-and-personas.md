@@ -213,5 +213,8 @@ Data Analysts enable data-driven decision-making by measuring project success, t
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-- The expanded set of personas reflects the full range of contributors to project success, enabling better accountability, clearer onboarding, and more comprehensive process coverage.
+- The expanded set of personas reflects the full range of contributors to project success:
+  - Enables better accountability across all project phases
+  - Provides clearer onboarding guidance for new team members
+  - Supports more comprehensive process coverage and cross-functional collaboration
 
